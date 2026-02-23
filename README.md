@@ -1,4 +1,5 @@
 🍼 Baby Cry Sound Classification using Deep Learning
+
 📌 Project Overview
 
 This project presents an AI-based system for automatic classification of infant cry sounds into eight different categories (hungry, tired, pain, discomfort, etc.). The goal is to support smart healthcare and assist caregivers in understanding infants' needs through audio signal analysis.
@@ -31,7 +32,9 @@ MFCC (Mel-Frequency Cepstral Coefficients)
 
 Convolutional Neural Networks (CNN)
 
-🔍 Methodology
+
+ 
+ Methodology
 1️⃣ Data Preprocessing
 
 Audio loading and normalization
